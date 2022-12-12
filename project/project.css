@@ -1,0 +1,152 @@
+*{
+    position: relative;
+    width:auto;
+    padding: 0%;
+    margin: 0%;
+    padding-top: 0%;
+    background-color:ghostwhite;
+}
+#logo{
+    background-color:red;
+    border: 4px solid black;
+}
+#logo{
+    white-space: nowrap;
+}
+#logo  #web{
+    display: inline;
+    background-attachment: fixed;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    width: 200px;
+    border: 3px solid black;
+}
+.login{
+    display: inline;
+    background-color: gold;
+	text-decoration: none;
+	color:black;
+	font-size: 30px;
+	font-weight:800;
+	border-radius:  50px;
+    margin-left: 70%;
+	border: 4px solid black;
+    padding: 6px 15px;
+}
+#tap{
+    border-top: 4px solid black;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto;
+    margin: 0px;
+}
+.signup{
+    padding-left: 100px;
+    margin-right: 0%;
+    margin-top: 0%;
+    /*border-left: 4px solid black;*/
+}
+#yo{
+    /*float: right;*/
+    width: 70px;
+    margin-left:25%;
+}
+#yo:hover{
+    background-color:gold;
+}
+#up{
+    font-size: 30px;
+    float: right;
+    margin-right: 16%;
+    /*margin-top:50%;*/
+    padding:5px 14px;
+}
+#up:hover{
+    background-color:aquamarine;
+    transition: 0.05s;
+}
+marquee{
+    width: 1200px;
+    background-color:rgb(241, 245, 236);
+    border-radius: 15px;
+    border: 2px dashed black;
+    color: #000;
+}
+/*marquee img{
+    float: left;
+}*/
+#xyz{
+    margin-top: 1%;
+    margin-left: 50px;
+}
+#option ul{
+    margin-top: 15px;
+    margin-left: 18%;
+	display: flex;
+	/*align-items: center;*/
+    list-style-type:none;
+}
+#option ul li a{
+    border-radius: 0px;
+    border-left:1px solid black ;
+    border-right: 1px solid black;
+	text-decoration:dotted;
+	color: #000;
+	padding: 10px 30px;
+	letter-spacing: 0.5px;
+	font-size: 40px;
+}
+#option ul li a:hover{
+	border-bottom: 4px solid #000;
+	transition: 0.6s;
+} 
+#register{
+    margin-right: 15%;
+    margin-top: 7%;
+    width:100px;
+    border-radius: 20%;
+    border: 6px double black;
+    float: right;
+}
+#register:hover{
+    background-color:aquamarine;
+}
+.grid-container{
+    gap: 20px 5px;
+    float:left;
+    margin-left: 0%;
+    display: grid;
+    grid-template-columns: 370px 370px 370px 370px ;
+    grid-template-rows: 480px 480px 480px 370px;
+    background-color:whitesmoke;
+    margin: 10px;
+}
+.grid-item{
+    margin:10px;
+    padding: 0px;
+    padding-bottom: 0%;
+    border: 2px solid black;
+    background-color:white;
+    font-size: larger;
+    text-align: center;
+}
+.grid-item img{
+    width: 250px;
+    height: 300px;
+}
+.grid-item a{
+    text-decoration: none;
+	color:black;
+	font-size: 25px;
+	font-weight:800;
+	border-radius:  50px;
+    letter-spacing: 1px;
+    border: 2px solid black;
+    background-color: red;
+    padding: 6px 15px;
+}
+.grid-item a:hover{
+    background-color: gold;
+}

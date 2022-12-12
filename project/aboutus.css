@@ -1,0 +1,17 @@
+#op{
+    display: flex;
+    justify-content: space-between;
+
+}
+pre{
+    font-size: 30px;
+    font-family: 'Akaya Telivigala', cursive;
+}
+#pro1{
+    border-right: 2px solid black;
+    padding-right: 70px;
+}
+#pro2{
+    border-right: 2px solid black;
+    padding-right: 70px;
+}

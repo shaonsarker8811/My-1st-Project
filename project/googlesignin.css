@@ -1,0 +1,24 @@
+* {box-sizing: border-box}
+#table{
+  text-align: center;
+}
+#id{
+  align-items: center;
+}
+#img1{
+  border-radius: 2px;
+}
+#table  > .lol{
+  float:left;
+}
+#yo{
+  background-color: green;
+  letter-spacing: 2px;
+  border-radius: 20px;
+}
+#yo:hover{
+  background-color:greenyellow;
+}
+
+
+

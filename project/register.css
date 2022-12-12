@@ -1,0 +1,76 @@
+body{
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    font-size: xx-large;
+}
+body.background{
+    background-color: aquamarine;
+    filter: blur(55px);
+}
+#cars{
+    box-sizing: content-box;
+    font-size: x-large;
+    align-items: center;
+}
+#img1{
+    align-self: center;
+    width: 698.5px;
+}
+#op{
+    font-size: xx-large;
+    font-family:'Akaya Telivigala', cursive;;
+}
+.container{
+    background-color:rgb(62, 224, 230);
+    padding-top: 0%;
+    margin-top: 0px;
+    margin-left: 400px;
+    margin-right: 400px;
+    font-family:fantasy;
+    letter-spacing: 1px;
+    font-size: 30px;
+    align-items: center;
+    border: 3px solid black;
+}
+#yo{
+    align-items: center;
+    font-family:'Akaya Telivigala', cursive; ;
+    font-size:x-large;
+}
+#genere{
+    align-self: center;
+    font-size: x-large;
+} 
+#to{
+    row-gap: 5px;
+    font-size: larger;
+}
+#des{
+    font-size: x-large;
+    align-items: center;
+}
+#koi{
+    font-size: 48px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-self: center;
+    color:gold;
+    -webkit-text-stroke: 2px black;
+    text-decoration:overline underline black;
+}
+#u{
+    font-size: x-large;
+    font-family:'Akaya Telivigala', cursive; ;
+}
+.lolly{
+    height:35px ;
+    width: 350px;
+    font-family: 'Akaya Telivigala', cursive;
+    background-color: #fff;
+    border: 1px solid #ffca00;;
+    font-size: 40px;
+    color: #fff;
+    outline: none;
+    padding: 3px 0 3px 10px;
+    margin-top: 10px;
+}
